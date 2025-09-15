@@ -1,0 +1,85 @@
+D:\тут храни курсач\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.exe.config
+D:\тут храни курсач\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.exe
+D:\тут храни курсач\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.pdb
+D:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.AssemblyReference.cache
+D:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form1.resources
+D:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Properties.Resources.resources
+D:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.GenerateResource.cache
+D:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.CoreCompileInputs.cache
+D:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.exe
+D:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.pdb
+H:\тут храни курсач\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.exe.config
+H:\тут храни курсач\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.exe
+H:\тут храни курсач\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.pdb
+H:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.AssemblyReference.cache
+H:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form1.resources
+H:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Properties.Resources.resources
+H:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.GenerateResource.cache
+H:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.CoreCompileInputs.cache
+H:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.exe
+H:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.pdb
+H:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form2.resources
+D:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form2.resources
+D:\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form3.resources
+H:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.exe.config
+H:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.exe
+H:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.pdb
+H:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.AssemblyReference.cache
+H:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form1.resources
+H:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form2.resources
+H:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form3.resources
+H:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Properties.Resources.resources
+H:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.GenerateResource.cache
+H:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.CoreCompileInputs.cache
+H:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.exe
+H:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.pdb
+H:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form4.resources
+H:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form5.resources
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.exe.config
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.exe
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.pdb
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.AssemblyReference.cache
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form1.resources
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form2.resources
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form3.resources
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form4.resources
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form5.resources
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Properties.Resources.resources
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.GenerateResource.cache
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.CoreCompileInputs.cache
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.exe
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.pdb
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form6.resources
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form7.resources
+D:\тут храни курсач\тут храни курсач\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form8.resources
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.exe.config
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.exe
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.pdb
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.AssemblyReference.cache
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form1.resources
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form2.resources
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form3.resources
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form4.resources
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form5.resources
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form6.resources
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form7.resources
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form8.resources
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Properties.Resources.resources
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.GenerateResource.cache
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.CoreCompileInputs.cache
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.exe
+D:\тут храни курсач\Полу Чудес (ver.2)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.pdb
+D:\тут храни курсач\Полу Чудес (ver.1)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.AssemblyReference.cache
+D:\тут храни курсач\Полу Чудес (ver.1)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form1.resources
+D:\тут храни курсач\Полу Чудес (ver.1)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form2.resources
+D:\тут храни курсач\Полу Чудес (ver.1)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form3.resources
+D:\тут храни курсач\Полу Чудес (ver.1)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form4.resources
+D:\тут храни курсач\Полу Чудес (ver.1)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Form5.resources
+D:\тут храни курсач\Полу Чудес (ver.1)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.Properties.Resources.resources
+D:\тут храни курсач\Полу Чудес (ver.1)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.GenerateResource.cache
+D:\тут храни курсач\Полу Чудес (ver.1)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.csproj.CoreCompileInputs.cache
+D:\тут храни курсач\Полу Чудес (ver.1)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.exe
+D:\тут храни курсач\Полу Чудес (ver.1)\field_of_miracles\field_of_miracles\obj\Debug\field_of_miracles.pdb
+D:\тут храни курсач\Полу Чудес (ver.1)\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.exe.config
+D:\тут храни курсач\Полу Чудес (ver.1)\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.exe
+D:\тут храни курсач\Полу Чудес (ver.1)\field_of_miracles\field_of_miracles\bin\Debug\field_of_miracles.pdb
